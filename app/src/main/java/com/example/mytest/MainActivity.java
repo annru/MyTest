@@ -10,6 +10,7 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+        String a = "这是原始的开发人员变量设置";
         //测试提交
         //提交第二条
         //这是添加了分支
